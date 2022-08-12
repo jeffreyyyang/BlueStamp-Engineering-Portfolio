@@ -26,6 +26,11 @@ My first milestone was constructing the physical mechanical arm and mounting the
 
 <iframe width="620" height="348.75" src="https://www.youtube.com/embed/L_sFzxW_xlw" title="Jeffrey Y Milestone 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# Bill of Materials
+| **Item** | **Quantity** | **Price** | **Link** |
+|:--:|:--:|:--:|:--:|
+| LAFVIN 4DOF Mechanical Arm Kit | 1 | $35.99 | (https://www.amazon.com/LAFVIN-Acrylic-Mechanical-Compatible-Tutorial/dp/B07ZYZVNY4)
+| Moto G Pure (Android Phone) | 1 | $52.99 | https://www.amazon.com/Tracfone-Motorola-moto-Pure-32GB/dp/B09NWDJQ78/ref=sr_1_5?keywords=moto+g+pure&qid=1660325969&sr=8-5
 
 # Arduino Code
 ```Arduino
