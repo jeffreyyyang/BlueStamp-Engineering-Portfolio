@@ -23,6 +23,8 @@ My first milestone was constructing the physical mechanical arm and mounting the
 
 <iframe width="620" height="348.75" src="https://www.youtube.com/embed/L_sFzxW_xlw" title="Jeffrey Y Milestone 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+# Arduino Code
 ```Arduino
 #include <Servo.h> // add the servo libraries
 #include <Wire.h>
