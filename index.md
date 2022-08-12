@@ -10,6 +10,12 @@ The 4DOF Mechanical Arm is a controllable arm that consists of 4 servos for move
 # Project Picture
 ![IMG_6601](https://user-images.githubusercontent.com/110251127/184412910-703bc091-8bcb-484b-adce-d40dee49e3fa.jpg)
 
+# Bill of Materials
+| **Item** | **Quanity** | **Price** | **Link** |
+|:--:|:--:|:--:|:--:|
+| Lavfin Robot Arm Kit | 1 | 35 USD | <a href="https://www.amazon.com/LAFVIN-Acrylic-Mechanical-Compatible-Tutorial/dp/B07ZYZVNY4"> Amazon </a> 
+| Moto G Pure| 1 | 60 USD | <a href="https://www.amazon.com/Tracfone-Motorola-moto-Pure-32GB/dp/B09NWDJQ78/ref=sr_1_5?keywords=moto+g+pure&qid=1660325878&sr=8-5"> Amazon </a>
+
 # Final Milestone
 My final milestone was me implementing motion controls for the mechanical arm. For this, I utilized the accelerometer and tested its values to make sure it was working. After this, I combined and wrote my own code in order to send inputs from the accelerometer to the servo motors. There were no limits for the accelerometer, so I had to create a deadzone to hold the arm still. Originally I wanted to make the accelerometer wireless, but the bluetooth HC-06 module was not cooperating with the HC-05 module due to issues with the sensor board. In the limited time I had, I just made a wired connection, but theoretically, it could still work. For the controls, all directions worked except the yaw axis. In order to fixed this, I made a separate button on a breadboard circuit to control the claw.
 
@@ -26,11 +32,6 @@ My first milestone was constructing the physical mechanical arm and mounting the
 
 <iframe width="620" height="348.75" src="https://www.youtube.com/embed/L_sFzxW_xlw" title="Jeffrey Y Milestone 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Bill of Materials
-| **Item** | **Quanity** | **Price** | **Link** |
-|:--:|:--:|:--:|:--:|
-| Lavfin Robot Arm Kit | 1 | 35 USD | <a href="https://www.amazon.com/LAFVIN-Acrylic-Mechanical-Compatible-Tutorial/dp/B07ZYZVNY4"> Amazon </a> 
-| Moto G Pure| 1 | 60 USD | <a href="https://www.amazon.com/Tracfone-Motorola-moto-Pure-32GB/dp/B09NWDJQ78/ref=sr_1_5?keywords=moto+g+pure&qid=1660325878&sr=8-5"> Amazon </a>
 
 # Arduino Code
 ```Arduino
