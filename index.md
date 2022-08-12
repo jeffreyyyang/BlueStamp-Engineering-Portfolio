@@ -12,9 +12,11 @@ The 4DOF Mechanical Arm is a controllable arm that consists of 4 servos for move
 
 # Bill of Materials
 
-Lavfin Robot Arm Kit, 1 Qty, $35.99 USD, <a href="https://www.amazon.com/LAFVIN-Acrylic-Mechanical-Compatible-Tutorial/dp/B07ZYZVNY4"> Amazon </a> 
+Lavfin Robot Arm Kit, 1 Qty, $35.99, <a href="https://www.amazon.com/LAFVIN-Acrylic-Mechanical-Compatible-Tutorial/dp/B07ZYZVNY4"> Amazon Link </a> 
 
-Moto G Pure, 1 Qty, 59.99 USD, <a href="https://www.amazon.com/Tracfone-Motorola-moto-Pure-32GB/dp/B09NWDJQ78/ref=sr_1_5?keywords=moto+g+pure&qid=1660325878&sr=8-5"> Amazon </a>
+Moto G Pure, 1 Qty, $ 59.99, <a href="https://www.amazon.com/Tracfone-Motorola-moto-Pure-32GB/dp/B09NWDJQ78/ref=sr_1_5?keywords=moto+g+pure&qid=1660325878&sr=8-5"> Amazon Link </a>
+
+Breadboard + Wires, 1 Qty, $13.99, <a href="https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A10317363ADHJAZNR78NX&url=%2FAUKENIEN-Breadboard-Solderless-Breadboards-JumperWires%2Fdp%2FB0B2DJCL5P%2Fref%3Dsr_1_1_sspa%3Fcrid%3D1XWLCVMUPB5T0%26keywords%3Dbreadboard%26qid%3D1660328082%26sprefix%3Dbreadboar%252Caps%252C147%26sr%3D8-1-spons%26psc%3D1&qualifier=1660328082&id=664650709529647&widgetName=sp_atf"> Amazon Link </a>
 
 MPU 6050, 1 Qty, $9.99 USD, <a href="https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A07712211OII08KM5ZN42&url=%2FHiLetgo-MPU-6050-Accelerometer-Gyroscope-Converter%2Fdp%2FB00LP25V1A%2Fref%3Dsr_1_1_sspa%3Fcrid%3D2VYHCTRDNXPJA%26keywords%3Dmpu6050%26qid%3D1660327102%26sprefix%3Dmpu605%252Caps%252C139%26sr%3D8-1-spons%26psc%3D1&qualifier=1660327102&id=5519977196564346&widgetName=sp_atf"> Amazon </a>
 
