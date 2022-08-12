@@ -38,6 +38,12 @@ My first milestone was constructing the physical mechanical arm and mounting the
 
 <iframe width="620" height="348.75" src="https://www.youtube.com/embed/L_sFzxW_xlw" title="Jeffrey Y Milestone 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# Useful Links and Tips
+<a href="https://drive.google.com/drive/folders/1t8ZgGRvJrYYbfawNBiJ6xqhWS9MYxiCA?usp=sharing"> LAFVIN 4DOF File Link </a>
+
+Tips: 
+Do not plug in the HC-06 Module when uploading the bluetooth code.
+Make sure to utilize the correct screws, they are labeled in the directions.
 
 # Arduino Code
 ```Arduino
