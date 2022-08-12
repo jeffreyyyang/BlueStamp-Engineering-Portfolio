@@ -41,6 +41,8 @@ My first milestone was constructing the physical mechanical arm and mounting the
 # Useful Links and Tips
 <a href="https://drive.google.com/drive/folders/1t8ZgGRvJrYYbfawNBiJ6xqhWS9MYxiCA?usp=sharing"> LAFVIN 4DOF File Link </a>
 
+<a href="https://drive.google.com/file/d/1E-EayZghbhNf_Lw-rPUdYa9ZV7TL5r9A/view?usp=sharing"> My MIT App Inventor App </a>
+
 Tips: 
 
 Do not plug in the HC-06 Module when uploading the bluetooth code.
