@@ -18,7 +18,7 @@ Moto G Pure, 1 Qty, 59.99 USD, <a href="https://www.amazon.com/Tracfone-Motorola
 
 MPU 6050, 1 Qty, $9.99 USD, <a href="https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A07712211OII08KM5ZN42&url=%2FHiLetgo-MPU-6050-Accelerometer-Gyroscope-Converter%2Fdp%2FB00LP25V1A%2Fref%3Dsr_1_1_sspa%3Fcrid%3D2VYHCTRDNXPJA%26keywords%3Dmpu6050%26qid%3D1660327102%26sprefix%3Dmpu605%252Caps%252C139%26sr%3D8-1-spons%26psc%3D1&qualifier=1660327102&id=5519977196564346&widgetName=sp_atf"> Amazon </a>
 
-# Schematic
+# Schematics
 ![heh](https://user-images.githubusercontent.com/110251127/184416969-48bd03cd-33d7-4fef-9249-e978fc6670fc.jpg)
 ![unknown](https://user-images.githubusercontent.com/110251127/184417059-21490f7f-2bb1-4006-ae91-9a83d9280645.png)
 
