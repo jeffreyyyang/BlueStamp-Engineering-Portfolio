@@ -7,6 +7,9 @@ The 4DOF Mechanical Arm is a controllable arm that consists of 4 servos for move
 
 ![IMG_6613](https://user-images.githubusercontent.com/110251127/184412405-c458c0f4-71b7-4fd4-91c5-0d1f4f5e6504.jpg)
 
+# Project Picture
+![IMG_6601](https://user-images.githubusercontent.com/110251127/184412910-703bc091-8bcb-484b-adce-d40dee49e3fa.jpg)
+
 # Final Milestone
 My final milestone was me implementing motion controls for the mechanical arm. For this, I utilized the accelerometer and tested its values to make sure it was working. After this, I combined and wrote my own code in order to send inputs from the accelerometer to the servo motors. There were no limits for the accelerometer, so I had to create a deadzone to hold the arm still. Originally I wanted to make the accelerometer wireless, but the bluetooth HC-06 module was not cooperating with the HC-05 module due to issues with the sensor board. In the limited time I had, I just made a wired connection, but theoretically, it could still work. For the controls, all directions worked except the yaw axis. In order to fixed this, I made a separate button on a breadboard circuit to control the claw.
 
