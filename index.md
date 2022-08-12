@@ -18,6 +18,10 @@ Moto G Pure, 1 Qty, 59.99 USD, <a href="https://www.amazon.com/Tracfone-Motorola
 
 MPU 6050, 1 Qty, $9.99 USD, <a href="https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A07712211OII08KM5ZN42&url=%2FHiLetgo-MPU-6050-Accelerometer-Gyroscope-Converter%2Fdp%2FB00LP25V1A%2Fref%3Dsr_1_1_sspa%3Fcrid%3D2VYHCTRDNXPJA%26keywords%3Dmpu6050%26qid%3D1660327102%26sprefix%3Dmpu605%252Caps%252C139%26sr%3D8-1-spons%26psc%3D1&qualifier=1660327102&id=5519977196564346&widgetName=sp_atf"> Amazon </a>
 
+# Schematic
+![heh](https://user-images.githubusercontent.com/110251127/184416969-48bd03cd-33d7-4fef-9249-e978fc6670fc.jpg)
+![unknown](https://user-images.githubusercontent.com/110251127/184417059-21490f7f-2bb1-4006-ae91-9a83d9280645.png)
+
 # Final Milestone
 My final milestone was me implementing motion controls for the mechanical arm. For this, I utilized the accelerometer and tested its values to make sure it was working. After this, I combined and wrote my own code in order to send inputs from the accelerometer to the servo motors. There were no limits for the accelerometer, so I had to create a deadzone to hold the arm still. Originally I wanted to make the accelerometer wireless, but the bluetooth HC-06 module was not cooperating with the HC-05 module due to issues with the sensor board. In the limited time I had, I just made a wired connection, but theoretically, it could still work. For the controls, all directions worked except the yaw axis. In order to fixed this, I made a separate button on a breadboard circuit to control the claw.
 
