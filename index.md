@@ -27,10 +27,10 @@ My first milestone was constructing the physical mechanical arm and mounting the
 <iframe width="620" height="348.75" src="https://www.youtube.com/embed/L_sFzxW_xlw" title="Jeffrey Y Milestone 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Bill of Materials
-| Item | Quanity | Price | Link |
+| **Item** | **Quanity** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Lavfin Robot Arm Kit | 1 | 35 USD | <a href="https://www.amazon.com/LAFVIN-Acrylic-Mechanical-Compatible-Tutorial/dp/B07ZYZVNY4%22%3E Amazon </a> 
-| Moto G Pure| 1 | 60 USD | <a href="https://www.amazon.com/Tracfone-Motorola-moto-Pure-32GB/dp/B09NWDJQ78/ref=sr_1_5?keywords=moto+g+pure&qid=1660325878&sr=8-5%22%3E Amazon </a>
+| Lavfin Robot Arm Kit | 1 | 35 USD | <a href="https://www.amazon.com/LAFVIN-Acrylic-Mechanical-Compatible-Tutorial/dp/B07ZYZVNY4"> Amazon </a> 
+| Moto G Pure| 1 | 60 USD | <a href="https://www.amazon.com/Tracfone-Motorola-moto-Pure-32GB/dp/B09NWDJQ78/ref=sr_1_5?keywords=moto+g+pure&qid=1660325878&sr=8-5"> Amazon </a>
 
 # Arduino Code
 ```Arduino
