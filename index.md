@@ -42,8 +42,12 @@ My first milestone was constructing the physical mechanical arm and mounting the
 <a href="https://drive.google.com/drive/folders/1t8ZgGRvJrYYbfawNBiJ6xqhWS9MYxiCA?usp=sharing"> LAFVIN 4DOF File Link </a>
 
 Tips: 
+
 Do not plug in the HC-06 Module when uploading the bluetooth code.
+
 Make sure to utilize the correct screws, they are labeled in the directions.
+
+The LAFVIN App requires an older version of Android, it will be easier to make your own app.
 
 # Arduino Code
 ```Arduino
